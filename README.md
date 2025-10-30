@@ -40,7 +40,7 @@ ohne zentrale Cloudabhängigkeit.
 └───────────────────────────────┘
         ↑                ↑
    Discovery (DHT)   Registry / Zonen
-
+```
 ---
 
 ## 🔐 Leitprinzipien
