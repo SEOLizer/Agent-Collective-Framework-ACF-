@@ -30,15 +30,16 @@ ohne zentrale Cloudabhängigkeit.
 
 ## 🧠 Architekturübersicht
 
+```text
 ┌───────────────────────────────┐
-│ Cognitive Layer │ ← Planung, Ethik, Entscheidungslogik (LLM, Policy Engine)
+│        Cognitive Layer        │ ← Planung, Ethik, Entscheidungslogik (LLM, Policy Engine)
 └───────────────┬───────────────┘
-│ (AGLX)
+                │  (AGLX)
 ┌───────────────┴───────────────┐
-│ Execution Layer │ ← Tools, APIs, lokale Operationen
+│        Execution Layer        │ ← Tools, APIs, lokale Operationen
 └───────────────────────────────┘
-↑ ↑
-Discovery (DHT) Registry / Zonen
+        ↑                ↑
+   Discovery (DHT)   Registry / Zonen
 
 ---
 
