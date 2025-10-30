@@ -40,9 +40,6 @@ ohne zentrale Cloudabhängigkeit.
 ↑ ↑
 Discovery (DHT) Registry / Zonen
 
-yaml
-Code kopieren
-
 ---
 
 ## 🔐 Leitprinzipien
